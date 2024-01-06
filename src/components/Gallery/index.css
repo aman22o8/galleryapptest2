@@ -1,0 +1,29 @@
+/* Write your code here. */
+.image_container {
+  margin-left: 10px;
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+}
+.imageMain {
+  height: 550px;
+  width: 550px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.main_heading {
+  font: normal normal 500 35px 'Roboto';
+  color: #1e293b;
+  margin-left: 20px;
+}
+.main_para {
+  font: normal normal 300 15px 'Roboto';
+  color: #64748b;
+  margin-left: 20px;
+}
+.thumbnail_container {
+  margin-left: 10px;
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+}
